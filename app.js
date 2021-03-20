@@ -1,2 +1,3 @@
 let x = 7;
-console.log("this is the final number: " + x)
+let y = 17;
+console.log("this is the final number: " + x + " and this is another number " + y);
