@@ -1,0 +1,19 @@
+{
+  "name": "javascript-jenkins",
+  "version": "1.0.0",
+  "description": "javascript-jenkins",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dbartolo819@github.com/dbartolo819/javascript-jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbartolo819/javascript-jenkins/issues"
+  },
+  "homepage": "https://github.com/dbartolo819/javascript-jenkins#readme"
+}
